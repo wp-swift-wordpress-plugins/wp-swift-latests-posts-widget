@@ -1,11 +1,11 @@
-# WP Swift: ACF Starter Widget
+# WP Swift: Latest Posts Widget
 
- * Plugin Name:       WP Swift: ACF Starter Widget
- * Description:       A starter widget for creating widgets using Advanced Custom Fields
+ * Plugin Name:       WP Swift: Latest Posts Widget
+ * Description:       A widget for displaying posts and custom posts in the sidebar
  * Version:           1.0.0
  * Author:            Gary Swift
  * License:           GPL-2.0+
- * Text Domain:       wp-swift-acf-starter-widget
+ * Text Domain:       wp-swift-latests-posts-widget
 
 ## Licence
 This project is licensed under the MIT license.
